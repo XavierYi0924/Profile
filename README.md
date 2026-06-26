@@ -87,4 +87,5 @@ Beyond robotics and coding, I am an avid photography enthusiast (with a particul
 Currently based in Tokyo, Japan, and open to global opportunities. Feel free to reach out for discussions on robotics, product strategy, or potential collaborations!
 
 * **Email:** xavieryi@126.com / xavieryi@fuji.waseda.jp
+* **LinkedIn:** https://www.linkedin.com/in/%E6%99%93%E7%91%9E-%E4%BC%8A-034331357/overlay/contact-info/
 * **Location:** Shandong, China
